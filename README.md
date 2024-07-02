@@ -6,6 +6,9 @@ mkdir /home/ec2-user/conf
 touch /home/ec2-user/conf/script3.sh
 touch /home/ec2-user/conf/serveConfLog.log
 
+# creation du dossier ou sera loger le fichier .conf
+mkdir /home/ec2-user/configs
+
 # editer script3.sh
 vim home/ec2-user/conf/script3.sh
 
